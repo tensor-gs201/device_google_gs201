@@ -24,8 +24,8 @@ PRODUCT_PACKAGES += \
     EuiccSupportPixelOverlay
 
 # Parts
-PRODUCT_PACKAGES += \
-    GoogleParts
+#PRODUCT_PACKAGES += \
+#    GoogleParts
 
 # Touch
 include hardware/google/pixel/touch/device.mk
